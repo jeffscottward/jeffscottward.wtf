@@ -1,1 +1,51 @@
 @import '../../semantic/dist/semantic.min';
+
+.SiteHeader { 
+
+	.segment {
+		padding: 0;
+	}
+}
+
+.SiteBody {
+	
+	.masthead {
+		font-size: 3em;
+		font-size: 3rem;
+		position: relative;
+		overflow: hidden;
+		
+		h1 {
+			font-size: 3.5em;
+			font-size: 3.5rem;
+			position: relative;
+			z-index: 3;
+		}
+
+		.background.container {
+			position: absolute;
+			z-index: 2;
+			height: 100%;
+			width: 100%;
+			top: 0;
+			left: 0;
+
+			.image {
+				position: absolute;
+				z-index: 1;
+				width: 100%;
+				top: 0;
+				left: 0;
+				height: 1050px; // size of the image
+				background: linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0)),
+							url('/images/winning-the-future-background.jpg');
+				animation: moveBG 50s linear infinite;
+			}
+		}
+	}
+}
+
+@keyframes moveBG {
+	from { transform: translateY(0); }
+	to   { transform: translateY(-910px); }
+}

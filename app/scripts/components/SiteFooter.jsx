@@ -12,8 +12,6 @@ module.exports = React.createClass({
                   <div className="ui inverted link list">
                     <a href="#" className="item">Link One</a>
                     <a href="#" className="item">Link Two</a>
-                    <a href="#" className="item">Link Three</a>
-                    <a href="#" className="item">Link Four</a>
                   </div>
                 </div>
                 <div className="three wide column">
@@ -21,8 +19,6 @@ module.exports = React.createClass({
                   <div className="ui inverted link list">
                     <a href="#" className="item">Link One</a>
                     <a href="#" className="item">Link Two</a>
-                    <a href="#" className="item">Link Three</a>
-                    <a href="#" className="item">Link Four</a>
                   </div>
                 </div>
                 <div className="three wide column">
@@ -30,8 +26,6 @@ module.exports = React.createClass({
                   <div className="ui inverted link list">
                     <a href="#" className="item">Link One</a>
                     <a href="#" className="item">Link Two</a>
-                    <a href="#" className="item">Link Three</a>
-                    <a href="#" className="item">Link Four</a>
                   </div>
                 </div>
                 <div className="seven wide column">
@@ -40,7 +34,7 @@ module.exports = React.createClass({
                 </div>
               </div>
               <div className="ui inverted section divider"></div>
-              <img src="assets/images/logo.png" className="ui centered mini image"/>
+              {/*<img src="assets/images/logo.png" className="ui centered mini image"/>*/}
               <div className="ui horizontal inverted small divided link list">
                 <a className="item" href="#">Site Map</a>
                 <a className="item" href="#">Contact Us</a>

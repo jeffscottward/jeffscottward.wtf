@@ -7,14 +7,17 @@ module.exports = React.createClass({
 	      <div className="ui inverted vertical masthead center aligned segment">
 	        <div className="ui container">
 	          <div className="ui large secondary inverted pointing menu">
-	            <a className="toc item">
-	              <i className="sidebar icon"></i>
-	            </a>
-	            <a className="active item">Home</a>
-	            <a className="item">Work</a>
-	            <a className="item">Company</a>
-	            <a className="item">Careers</a>
+	          	<div className="left item">
+	          		<a className="item">jeffscottward</a>
+	          	</div>
+	            <div className="right item">
+	            	<a className="active item">Blog</a>
+	            	<a className="item">About</a>
+	            	<a className="item">Talks</a>
+	            	<a className="item">Code</a>	
+	            </div>
 	          </div>
+	          
 	        </div>
 	      </div>
       </header>

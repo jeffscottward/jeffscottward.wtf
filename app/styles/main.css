@@ -18473,3 +18473,39 @@ html.ios, html.ios body {
     transform: scale3d(0.95, 1.05, 1); }
   75% {
     transform: scale3d(1.05, 0.95, 1); } }
+
+.SiteHeader .segment {
+  padding: 0; }
+
+.SiteBody .masthead {
+  font-size: 3em;
+  font-size: 3rem;
+  position: relative;
+  overflow: hidden; }
+  .SiteBody .masthead h1 {
+    font-size: 3.5em;
+    font-size: 3.5rem;
+    position: relative;
+    z-index: 3; }
+  .SiteBody .masthead .background.container {
+    position: absolute;
+    z-index: 2;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0; }
+    .SiteBody .masthead .background.container .image {
+      position: absolute;
+      z-index: 1;
+      width: 100%;
+      top: 0;
+      left: 0;
+      height: 1050px;
+      background: linear-gradient(to right, #1e4b73, rgba(255, 255, 255, 0)), url("/images/winning-the-future-background.jpg");
+      animation: moveBG 50s linear infinite; }
+
+@keyframes moveBG {
+  from {
+    transform: translateY(0); }
+  to {
+    transform: translateY(-910px); } }
