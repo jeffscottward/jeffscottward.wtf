@@ -3,6 +3,9 @@ var SiteAbout = require('./SiteAbout.jsx');
 
 module.exports = React.createClass({
  render: function() {
+
+ 	// console.log(SiteAbout);
+
     return (
       <div className="SiteBody">
         <div className="ui inverted vertical masthead center aligned segment">
@@ -14,10 +17,9 @@ module.exports = React.createClass({
 	            	<div className="ui background image"></div>
 	            </div>
 	        </div>
-	        <div className="body-render">
-	        	
-	        </div>
           </div>
+        <div className="ui inverted vertical segment body-divider"></div>
+        <div className="ui container body-render"><SiteAbout/></div>
       </div>
     );
   }

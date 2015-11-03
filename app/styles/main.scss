@@ -1,7 +1,16 @@
 @import '../../semantic/dist/semantic.min';
 
-.SiteHeader { 
+.body-render {
+	position: relative;
+	clear: both;
+}
 
+.text.main.container {
+	margin: 4em auto;
+	clear: both;
+}
+
+.SiteHeader { 
 	.segment {
 		padding: 0;
 	}
@@ -10,7 +19,6 @@
 .SiteBody {
 	
 	.masthead {
-		font-size: 3em;
 		font-size: 3rem;
 		position: relative;
 		overflow: hidden;
@@ -42,6 +50,28 @@
 				animation: moveBG 50s linear infinite;
 			}
 		}
+	}
+
+	.body-divider {
+		padding: .25rem;
+
+	}
+
+	clear: both;
+}
+
+.SiteAbout {
+	iframe {
+		border: none;
+		display: inline-block;
+		vertical-align: top;
+		clear: both;
+	}
+
+	.about-body {
+		display: inline-block;
+		vertical-align: top;
+		width: calc(100% - 220px);
 	}
 }
 
