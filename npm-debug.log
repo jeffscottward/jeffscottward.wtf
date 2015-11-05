@@ -1,0 +1,1418 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/jeffscottward/.nvm/versions/node/v0.12.7/bin/node',
+1 verbose cli   '/Users/jeffscottward/.nvm/versions/node/v0.12.7/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'node-sass' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose install initial load of /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/package.json
+5 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/JSONStream/package.json
+6 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/abbrev/package.json
+7 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/accepts/package.json
+8 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/accord/package.json
+9 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/acorn/package.json
+10 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/amdefine/package.json
+11 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ansi/package.json
+12 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ansi-green/package.json
+13 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ansi-regex/package.json
+14 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ansi-styles/package.json
+15 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ansi-wrap/package.json
+16 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ansicolors/package.json
+17 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/anymatch/package.json
+18 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/apache-server-configs/package.json
+19 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/archy/package.json
+20 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/are-we-there-yet/package.json
+21 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/argh/package.json
+22 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/argparse/package.json
+23 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/arr-diff/package.json
+24 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/arr-flatten/package.json
+25 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-differ/package.json
+26 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-filter/package.json
+27 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-index/package.json
+28 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-map/package.json
+29 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-reduce/package.json
+30 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-slice/package.json
+31 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-union/package.json
+32 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-uniq/package.json
+33 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/array-unique/package.json
+34 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/arrify/package.json
+35 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/asap/package.json
+36 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/asn1/package.json
+37 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/asn1.js/package.json
+38 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/assert/package.json
+39 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/assert-plus/package.json
+40 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ast-types/package.json
+41 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/astw/package.json
+42 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/async/package.json
+43 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/async-each/package.json
+44 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/async-foreach/package.json
+45 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/atob/package.json
+46 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/autoprefixer-core/package.json
+47 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/aws-sign2/package.json
+48 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/balanced-match/package.json
+49 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/base62/package.json
+50 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/base64-js/package.json
+51 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/batch/package.json
+52 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/beeper/package.json
+53 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/better-console/package.json
+54 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/binary-extensions/package.json
+55 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/binaryextensions/package.json
+56 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/bl/package.json
+57 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/block-stream/package.json
+58 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/bluebird/package.json
+59 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/bn.js/package.json
+60 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/body-parser/package.json
+61 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/boom/package.json
+62 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/brace-expansion/package.json
+63 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/braces/package.json
+64 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/brorand/package.json
+65 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browser-pack/package.json
+66 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browser-resolve/package.json
+67 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify/package.json
+68 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify-aes/package.json
+69 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify-cipher/package.json
+70 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify-des/package.json
+71 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify-rsa/package.json
+72 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify-sign/package.json
+73 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserify-zlib/package.json
+74 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/browserslist/package.json
+75 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/buffer/package.json
+76 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/buffer-xor/package.json
+77 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/bufferstreams/package.json
+78 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/builtin-modules/package.json
+79 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/builtin-status-codes/package.json
+80 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/bytes/package.json
+81 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cache-swap/package.json
+82 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/camelcase/package.json
+83 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/camelcase-keys/package.json
+84 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/caniuse-db/package.json
+85 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cardinal/package.json
+86 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/caseless/package.json
+87 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/chalk/package.json
+88 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/chokidar/package.json
+89 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cipher-base/package.json
+90 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/classnames/package.json
+91 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/clean-css/package.json
+92 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cli/package.json
+93 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cli-color/package.json
+94 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cli-table/package.json
+95 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cli-usage/package.json
+96 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cliui/package.json
+97 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/clone/package.json
+98 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/clone-stats/package.json
+99 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/code-point-at/package.json
+100 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/color/package.json
+101 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/color-convert/package.json
+102 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/color-name/package.json
+103 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/color-string/package.json
+104 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/colornames/package.json
+105 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/colors/package.json
+106 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/colorspace/package.json
+107 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/combine-source-map/package.json
+108 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/combined-stream/package.json
+109 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/commander/package.json
+110 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/commoner/package.json
+111 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/concat-map/package.json
+112 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/concat-stream/package.json
+113 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/concat-with-sourcemaps/package.json
+114 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/config-chain/package.json
+115 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/connect/package.json
+116 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/connect-livereload/package.json
+117 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/console-browserify/package.json
+118 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/constants-browserify/package.json
+119 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/convert-source-map/package.json
+120 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/core-js/package.json
+121 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/core-util-is/package.json
+122 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/create-ecdh/package.json
+123 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/create-hash/package.json
+124 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/create-hmac/package.json
+125 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cross-spawn/package.json
+126 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cross-spawn-async/package.json
+127 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/cryptiles/package.json
+128 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/crypto-browserify/package.json
+129 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/css/package.json
+130 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ctype/package.json
+131 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/d/package.json
+132 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/dargs/package.json
+133 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/date-now/package.json
+134 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/dateformat/package.json
+135 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/deap/package.json
+136 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/debug/package.json
+137 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/decamelize/package.json
+138 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/deep-assign/package.json
+139 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/deepmerge/package.json
+140 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/defaults/package.json
+141 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/defined/package.json
+142 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/del/package.json
+143 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/delayed-stream/package.json
+144 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/delegates/package.json
+145 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/depd/package.json
+146 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/deprecated/package.json
+147 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/deps-sort/package.json
+148 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/des.js/package.json
+149 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/destroy/package.json
+150 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/detect-indent/package.json
+151 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/detective/package.json
+152 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/diagnostics/package.json
+153 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/diff/package.json
+154 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/diffie-hellman/package.json
+155 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/dom-serializer/package.json
+156 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/domain-browser/package.json
+157 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/domelementtype/package.json
+158 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/domhandler/package.json
+159 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/domutils/package.json
+160 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/duplexer/package.json
+161 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/duplexer2/package.json
+162 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/duplexify/package.json
+163 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/each-async/package.json
+164 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ee-first/package.json
+165 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/elliptic/package.json
+166 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/emits/package.json
+167 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/enabled/package.json
+168 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/end-of-stream/package.json
+169 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/entities/package.json
+170 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/env-variable/package.json
+171 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/envify/package.json
+172 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/errno/package.json
+173 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/error-ex/package.json
+174 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/es5-ext/package.json
+175 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/es6-iterator/package.json
+176 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/es6-promise/package.json
+177 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/es6-symbol/package.json
+178 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/es6-weak-map/package.json
+179 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/escape-html/package.json
+180 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/escape-string-regexp/package.json
+181 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/esprima-fb/package.json
+182 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/etag/package.json
+183 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/event-emitter/package.json
+184 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/event-stream/package.json
+185 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/events/package.json
+186 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/evp_bytestokey/package.json
+187 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/exit/package.json
+188 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/expand-brackets/package.json
+189 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/expand-range/package.json
+190 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/extend/package.json
+191 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/extglob/package.json
+192 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fancy-log/package.json
+193 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/faye-websocket/package.json
+194 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fbjs/package.json
+195 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/filename-regex/package.json
+196 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fill-range/package.json
+197 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/finalhandler/package.json
+198 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/find-index/package.json
+199 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/find-up/package.json
+200 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/findup/package.json
+201 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/findup-sync/package.json
+202 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/first-chunk-stream/package.json
+203 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/flagged-respawn/package.json
+204 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fobject/package.json
+205 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/for-in/package.json
+206 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/for-own/package.json
+207 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/forever-agent/package.json
+208 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fork-stream/package.json
+209 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/form-data/package.json
+210 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fresh/package.json
+211 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/from/package.json
+212 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fsevents/package.json
+213 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/fstream/package.json
+214 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/function-bind/package.json
+215 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gauge/package.json
+216 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gaze/package.json
+217 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/generate-function/package.json
+218 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/generate-object-property/package.json
+219 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/get-imports/package.json
+220 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/get-stdin/package.json
+221 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glob/package.json
+222 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glob-base/package.json
+223 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glob-parent/package.json
+224 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glob-stream/package.json
+225 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glob-watcher/package.json
+226 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glob2base/package.json
+227 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/globby/package.json
+228 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/globule/package.json
+229 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/glogg/package.json
+230 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/graceful-fs/package.json
+231 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/graceful-readlink/package.json
+232 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/growly/package.json
+233 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp/package.json
+234 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-autoprefixer/package.json
+235 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-cache/package.json
+236 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-chmod/package.json
+237 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-clone/package.json
+238 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-concat/package.json
+239 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-concat-css/package.json
+240 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-copy/package.json
+241 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-dedupe/package.json
+242 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-flatten/package.json
+243 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-header/package.json
+244 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-help/package.json
+245 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-if/package.json
+246 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-jshint/package.json
+247 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-json-editor/package.json
+248 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-less/package.json
+249 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-livereload/package.json
+250 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-match/package.json
+251 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-minify-css/package.json
+252 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-minify-html/package.json
+253 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-notify/package.json
+254 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-plumber/package.json
+255 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-print/package.json
+256 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-prompt/package.json
+257 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-rename/package.json
+258 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-replace/package.json
+259 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-rtlcss/package.json
+260 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-ruby-sass/package.json
+261 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-sass/package.json
+262 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-size/package.json
+263 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-uglify/package.json
+264 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-util/package.json
+265 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulp-watch/package.json
+266 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gulplog/package.json
+267 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/gzip-size/package.json
+268 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/har-validator/package.json
+269 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/has/package.json
+270 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/has-ansi/package.json
+271 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/has-flag/package.json
+272 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/has-gulplog/package.json
+273 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/has-unicode/package.json
+274 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/hash.js/package.json
+275 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/hawk/package.json
+276 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/hoek/package.json
+277 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/hosted-git-info/package.json
+278 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/htmlescape/package.json
+279 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/htmlparser2/package.json
+280 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/http-errors/package.json
+281 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/http-signature/package.json
+282 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/https-browserify/package.json
+283 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/iconv-lite/package.json
+284 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ieee754/package.json
+285 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/image-size/package.json
+286 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/import-regex/package.json
+287 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/indent-string/package.json
+288 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/indexof/package.json
+289 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/indx/package.json
+290 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/inflight/package.json
+291 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/inherits/package.json
+292 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ini/package.json
+293 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/inline-source-map/package.json
+294 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/inquirer/package.json
+295 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/insert-module-globals/package.json
+296 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/install/package.json
+297 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/interpret/package.json
+298 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/invert-kv/package.json
+299 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ip-regex/package.json
+300 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is/package.json
+301 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-absolute/package.json
+302 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-array/package.json
+303 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-binary-path/package.json
+304 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-buffer/package.json
+305 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-builtin-module/package.json
+306 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-dotfile/package.json
+307 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-equal-shallow/package.json
+308 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-extglob/package.json
+309 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-finite/package.json
+310 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-fullwidth-code-point/package.json
+311 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-glob/package.json
+312 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-my-json-valid/package.json
+313 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-number/package.json
+314 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-obj/package.json
+315 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-path-cwd/package.json
+316 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-path-in-cwd/package.json
+317 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-path-inside/package.json
+318 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-primitive/package.json
+319 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-property/package.json
+320 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-relative/package.json
+321 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/is-utf8/package.json
+322 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/isarray/package.json
+323 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/isobject/package.json
+324 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/isstream/package.json
+325 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/istextorbinary/package.json
+326 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jquery/package.json
+327 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/js-base64/package.json
+328 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/js-beautify/package.json
+329 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/js-tokens/package.json
+330 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jshint/package.json
+331 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jshint-stylish/package.json
+332 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/json-stable-stringify/package.json
+333 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/json-stringify-safe/package.json
+334 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jsonify/package.json
+335 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jsonparse/package.json
+336 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jsonpointer/package.json
+337 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/jstransform/package.json
+338 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/kind-of/package.json
+339 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/kuler/package.json
+340 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/labeled-stream-splicer/package.json
+341 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lazy-cache/package.json
+342 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lazypipe/package.json
+343 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lcid/package.json
+344 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/less/package.json
+345 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lexical-scope/package.json
+346 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/liftoff/package.json
+347 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/livereload-js/package.json
+348 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/load-json-file/package.json
+349 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash/package.json
+350 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._arraycopy/package.json
+351 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._arrayeach/package.json
+352 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._baseassign/package.json
+353 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basebind/package.json
+354 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._baseclone/package.json
+355 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basecopy/package.json
+356 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basecreate/package.json
+357 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basecreatecallback/package.json
+358 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basecreatewrapper/package.json
+359 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._baseflatten/package.json
+360 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basefor/package.json
+361 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basetostring/package.json
+362 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._basevalues/package.json
+363 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._bindcallback/package.json
+364 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._createassigner/package.json
+365 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._createpadding/package.json
+366 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._createwrapper/package.json
+367 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._escapehtmlchar/package.json
+368 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._escapestringchar/package.json
+369 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._getnative/package.json
+370 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._htmlescapes/package.json
+371 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._isiterateecall/package.json
+372 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._isnative/package.json
+373 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._objecttypes/package.json
+374 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._reescape/package.json
+375 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._reevaluate/package.json
+376 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._reinterpolate/package.json
+377 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._reunescapedhtml/package.json
+378 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._setbinddata/package.json
+379 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._shimkeys/package.json
+380 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash._slice/package.json
+381 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.assign/package.json
+382 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.bind/package.json
+383 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.clonedeep/package.json
+384 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.defaults/package.json
+385 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.escape/package.json
+386 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.flatten/package.json
+387 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.identity/package.json
+388 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.isarguments/package.json
+389 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.isarray/package.json
+390 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.isfunction/package.json
+391 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.isobject/package.json
+392 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.isplainobject/package.json
+393 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.keys/package.json
+394 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.keysin/package.json
+395 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.memoize/package.json
+396 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.noop/package.json
+397 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.pad/package.json
+398 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.padleft/package.json
+399 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.padright/package.json
+400 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.repeat/package.json
+401 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.restparam/package.json
+402 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.support/package.json
+403 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.template/package.json
+404 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.templatesettings/package.json
+405 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lodash.values/package.json
+406 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/log-symbols/package.json
+407 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/loose-envify/package.json
+408 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/loud-rejection/package.json
+409 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lru-cache/package.json
+410 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/lru-queue/package.json
+411 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/map-obj/package.json
+412 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/map-stream/package.json
+413 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/marked/package.json
+414 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/marked-terminal/package.json
+415 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/md5-hex/package.json
+416 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/md5-o-matic/package.json
+417 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/media-typer/package.json
+418 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/memoizee/package.json
+419 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/meow/package.json
+420 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/merge-stream/package.json
+421 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/micromatch/package.json
+422 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/miller-rabin/package.json
+423 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/mime/package.json
+424 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/mime-db/package.json
+425 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/mime-types/package.json
+426 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/minimalistic-assert/package.json
+427 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/minimatch/package.json
+428 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/minimist/package.json
+429 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/minimize/package.json
+430 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/mkdirp/package.json
+431 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/module-deps/package.json
+432 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ms/package.json
+433 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/multipipe/package.json
+434 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/mute-stream/package.json
+435 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/nan/package.json
+436 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/negotiator/package.json
+437 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/next-tick/package.json
+438 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-emoji/package.json
+439 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-gyp/package.json
+440 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-notifier/package.json
+441 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/package.json
+442 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-uuid/package.json
+443 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node.extend/package.json
+444 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/nopt/package.json
+445 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/normalize-package-data/package.json
+446 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/npmconf/package.json
+447 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/npmlog/package.json
+448 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/num2fraction/package.json
+449 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/number-is-nan/package.json
+450 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/oauth-sign/package.json
+451 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/object-assign/package.json
+452 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/object-keys/package.json
+453 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/object.omit/package.json
+454 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/object.pick/package.json
+455 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/on-finished/package.json
+456 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/once/package.json
+457 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/onetime/package.json
+458 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/opn/package.json
+459 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/orchestrator/package.json
+460 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ordered-read-streams/package.json
+461 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/os-browserify/package.json
+462 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/os-homedir/package.json
+463 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/os-locale/package.json
+464 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/os-shim/package.json
+465 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/os-tmpdir/package.json
+466 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/osenv/package.json
+467 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/outpipe/package.json
+468 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pako/package.json
+469 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/parents/package.json
+470 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/parse-asn1/package.json
+471 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/parse-glob/package.json
+472 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/parse-import/package.json
+473 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/parse-json/package.json
+474 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/parseurl/package.json
+475 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-array/package.json
+476 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-browserify/package.json
+477 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-exists/package.json
+478 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-is-absolute/package.json
+479 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-is-inside/package.json
+480 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-platform/package.json
+481 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/path-type/package.json
+482 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pause-stream/package.json
+483 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pbkdf2/package.json
+484 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/performance-now/package.json
+485 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pify/package.json
+486 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pinkie/package.json
+487 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pinkie-promise/package.json
+488 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/postcss/package.json
+489 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/preserve/package.json
+490 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pretty-bytes/package.json
+491 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/pretty-hrtime/package.json
+492 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/private/package.json
+493 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/process/package.json
+494 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/process-nextick-args/package.json
+495 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/promise/package.json
+496 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/proto-list/package.json
+497 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/prr/package.json
+498 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/public-encrypt/package.json
+499 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/punycode/package.json
+500 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/q/package.json
+501 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/qs/package.json
+502 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/querystring/package.json
+503 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/querystring-es3/package.json
+504 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/raf/package.json
+505 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/randomatic/package.json
+506 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/randombytes/package.json
+507 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/range-parser/package.json
+508 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/raw-body/package.json
+509 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rcfinder/package.json
+510 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rcloader/package.json
+511 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/react/package.json
+512 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/react-dom/package.json
+513 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/react-motion/package.json
+514 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/react-outsideclickhandler/package.json
+515 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/react-tools/package.json
+516 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/reactify/package.json
+517 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/read-only-stream/package.json
+518 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/read-pkg/package.json
+519 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/read-pkg-up/package.json
+520 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/readable-stream/package.json
+521 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/readdirp/package.json
+522 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/recast/package.json
+523 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rechoir/package.json
+524 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/redent/package.json
+525 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/redeyed/package.json
+526 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/regex-cache/package.json
+527 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/repeat-element/package.json
+528 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/repeat-string/package.json
+529 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/repeating/package.json
+530 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/replace-ext/package.json
+531 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/replacestream/package.json
+532 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/request/package.json
+533 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/require-dot-file/package.json
+534 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/resolve/package.json
+535 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/resolve-url/package.json
+536 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rework/package.json
+537 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rework-import/package.json
+538 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rework-plugin-function/package.json
+539 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rework-plugin-url/package.json
+540 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rework-visit/package.json
+541 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rimraf/package.json
+542 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ripemd160/package.json
+543 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/rtlcss/package.json
+544 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/run-sequence/package.json
+545 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/sass-graph/package.json
+546 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/semantic-react/package.json
+547 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/semantic-ui/package.json
+548 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/semver/package.json
+549 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/send/package.json
+550 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/sequencify/package.json
+551 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/serve-index/package.json
+552 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/serve-static/package.json
+553 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/set-immediate-shim/package.json
+554 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/sha.js/package.json
+555 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/shasum/package.json
+556 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/shell-quote/package.json
+557 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/shelljs/package.json
+558 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/shellwords/package.json
+559 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/sigmund/package.json
+560 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/sntp/package.json
+561 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/source-map/package.json
+562 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/source-map-resolve/package.json
+563 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/source-map-url/package.json
+564 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/sparkles/package.json
+565 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/spawn-sync/package.json
+566 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/spdx-correct/package.json
+567 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/spdx-exceptions/package.json
+568 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/spdx-expression-parse/package.json
+569 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/spdx-license-ids/package.json
+570 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/split/package.json
+571 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stat-mode/package.json
+572 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/statuses/package.json
+573 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stream-browserify/package.json
+574 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stream-combiner/package.json
+575 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stream-combiner2/package.json
+576 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stream-consume/package.json
+577 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stream-http/package.json
+578 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stream-splicer/package.json
+579 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/string-length/package.json
+580 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/string-width/package.json
+581 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/string_decoder/package.json
+582 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/stringstream/package.json
+583 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/strip-ansi/package.json
+584 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/strip-bom/package.json
+585 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/strip-bom-stream/package.json
+586 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/strip-indent/package.json
+587 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/strip-json-comments/package.json
+588 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/subarg/package.json
+589 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/success-symbol/package.json
+590 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/supports-color/package.json
+591 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/syntax-error/package.json
+592 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tar/package.json
+593 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ternary-stream/package.json
+594 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/text-hex/package.json
+595 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/text-table/package.json
+596 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/textextensions/package.json
+597 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/through/package.json
+598 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/through2/package.json
+599 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/through2-filter/package.json
+600 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tildify/package.json
+601 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/timers-browserify/package.json
+602 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/timers-ext/package.json
+603 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tiny-lr/package.json
+604 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tough-cookie/package.json
+605 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/trim-newlines/package.json
+606 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/try-json-parse/package.json
+607 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tty-browserify/package.json
+608 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tunnel-agent/package.json
+609 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/tween-interpolate/package.json
+610 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/type-is/package.json
+611 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/typedarray/package.json
+612 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/ua-parser-js/package.json
+613 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/uglify-js/package.json
+614 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/uglify-save-license/package.json
+615 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/uglify-to-browserify/package.json
+616 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/uid-number/package.json
+617 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/umd/package.json
+618 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/underscore/package.json
+619 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/underscore.string/package.json
+620 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/unique-stream/package.json
+621 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/unpipe/package.json
+622 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/urix/package.json
+623 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/url/package.json
+624 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/url-regex/package.json
+625 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/user-home/package.json
+626 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/util/package.json
+627 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/util-deprecate/package.json
+628 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/utils-merge/package.json
+629 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/v8flags/package.json
+630 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/validate-npm-package-license/package.json
+631 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vinyl/package.json
+632 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vinyl-bufferstream/package.json
+633 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vinyl-file/package.json
+634 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vinyl-fs/package.json
+635 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vinyl-source-stream/package.json
+636 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vinyl-sourcemaps-apply/package.json
+637 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/vm-browserify/package.json
+638 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/watchify/package.json
+639 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/websocket-driver/package.json
+640 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/websocket-extensions/package.json
+641 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/whatwg-fetch/package.json
+642 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/when/package.json
+643 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/which/package.json
+644 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/window-size/package.json
+645 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/wordwrap/package.json
+646 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/wrap-ansi/package.json
+647 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/wrappy/package.json
+648 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/wrench/package.json
+649 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/xtend/package.json
+650 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/y18n/package.json
+651 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/yamljs/package.json
+652 verbose installManyTop reading scoped package data from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/yargs/package.json
+653 info package.json async-foreach@0.1.3 No license field.
+654 info package.json binaryextensions@1.0.0 license should be a valid SPDX license expression
+655 info package.json dom-serializer@0.1.0 No README data
+656 info package.json duplexer@0.1.1 No license field.
+657 info package.json exit@0.1.2 No license field.
+658 info package.json fork-stream@0.0.4 license should be a valid SPDX license expression
+659 info package.json globule@0.1.0 No license field.
+660 info package.json is-utf8@0.2.0 license should be a valid SPDX license expression
+661 info package.json pause-stream@0.0.11 license should be a valid SPDX license expression
+662 info package.json sequencify@0.0.7 No license field.
+663 info package.json shellwords@0.1.0 No license field.
+664 info package.json wrench@1.5.8 No license field.
+665 info package.json ansi-wrap@0.1.0 license should be a valid SPDX license expression
+666 info package.json arr-flatten@1.0.1 license should be a valid SPDX license expression
+667 info package.json apache-server-configs@2.14.0 license should be a valid SPDX license expression
+668 info package.json ansi@0.3.0 No license field.
+669 info package.json array-slice@0.2.3 license should be a valid SPDX license expression
+670 info package.json array-unique@0.2.1 license should be a valid SPDX license expression
+671 info package.json assert@1.3.0 assert is also the name of a node core module.
+672 info package.json asap@1.0.0 No repository field.
+673 info package.json asap@1.0.0 No license field.
+674 info package.json asn1@0.1.11 No license field.
+675 info package.json array-index@0.1.1 No license field.
+676 info package.json assert-plus@0.1.5 No license field.
+677 info package.json base62@0.1.1 No license field.
+678 info package.json async@0.2.10 No license field.
+679 info package.json batch@0.5.2 No license field.
+680 info package.json atob@1.1.2 license should be a valid SPDX license expression
+681 info package.json better-console@0.2.4 license should be a valid SPDX license expression
+682 info package.json buffer@3.5.1 buffer is also the name of a node core module.
+683 info package.json bytes@1.0.0 No license field.
+684 info package.json bufferstreams@1.0.1 No license field.
+685 info package.json cli-table@0.2.0 No repository field.
+686 info package.json cli-table@0.2.0 No license field.
+687 info package.json cli@0.6.6 No license field.
+688 info package.json cli-usage@0.1.2 No repository field.
+689 info package.json color-convert@0.5.3 No license field.
+690 info package.json colors@0.6.2 No license field.
+691 info package.json colorspace@1.0.1 No repository field.
+692 info package.json console-browserify@1.1.0 No license field.
+693 info package.json connect-livereload@0.5.3 No license field.
+694 info package.json config-chain@1.1.9 No license field.
+695 info package.json dateformat@1.0.11 No license field.
+696 info package.json ctype@0.5.3 No license field.
+697 info package.json date-now@0.1.4 No license field.
+698 info package.json deprecated@0.0.1 No license field.
+699 info package.json domain-browser@1.1.4 license should be a valid SPDX license expression
+700 info package.json diff@1.0.8 No license field.
+701 info package.json domelementtype@1.3.0 No license field.
+702 info package.json domutils@1.5.1 No license field.
+703 info package.json domhandler@2.3.0 No license field.
+704 info package.json enabled@1.0.1 No repository field.
+705 info package.json entities@1.0.0 license should be a valid SPDX license expression
+706 info package.json events@1.1.0 events is also the name of a node core module.
+707 info package.json esprima-fb@13001.1001.0-dev-harmony-fb No license field.
+708 info package.json filename-regex@2.0.0 license should be a valid SPDX license expression
+709 info package.json fill-range@2.2.2 license should be a valid SPDX license expression
+710 info package.json expand-range@1.8.1 license should be a valid SPDX license expression
+711 info package.json event-stream@3.0.20 No license field.
+712 info package.json for-in@0.1.4 license should be a valid SPDX license expression
+713 info package.json for-own@0.1.3 license should be a valid SPDX license expression
+714 info package.json findup@0.1.5 No license field.
+715 info package.json flagged-respawn@0.3.1 No license field.
+716 info package.json findup-sync@0.3.0 No license field.
+717 info package.json function-bind@1.0.2 No license field.
+718 info package.json gaze@0.5.2 No license field.
+719 info package.json glob-stream@3.1.18 No license field.
+720 info package.json glob-base@0.3.0 license should be a valid SPDX license expression
+721 info package.json glob-watcher@0.0.6 No license field.
+722 info package.json glob2base@0.0.12 No license field.
+723 info package.json gulp-clone@1.0.0 No license field.
+724 info package.json gulp-concat-css@2.2.0 No license field.
+725 info package.json gulp-copy@0.0.2 No license field.
+726 info package.json gulp-if@1.2.5 No license field.
+727 info package.json gulp-plumber@0.6.6 No license field.
+728 info package.json gulp-minify-html@0.1.8 No license field.
+729 info package.json gulp-match@0.2.1 No license field.
+730 info package.json gulp-notify@2.2.0 No license field.
+731 info package.json has@1.0.1 No license field.
+732 info package.json gulp-rename@1.2.2 No license field.
+733 info package.json htmlescape@1.1.0 No license field.
+734 info package.json indexof@0.0.1 No repository field.
+735 info package.json indexof@0.0.1 No license field.
+736 info package.json install@0.1.8 No license field.
+737 info package.json is-absolute@0.1.7 license should be a valid SPDX license expression
+738 info package.json is-primitive@2.0.0 license should be a valid SPDX license expression
+739 info package.json is-number@1.1.2 license should be a valid SPDX license expression
+740 info package.json isobject@1.0.2 license should be a valid SPDX license expression
+741 info package.json is-relative@0.1.3 No license field.
+742 info package.json istextorbinary@1.0.2 license should be a valid SPDX license expression
+743 info package.json jquery@2.1.4 No license field.
+744 info package.json kind-of@1.1.0 license should be a valid SPDX license expression
+745 info package.json jstransform@10.1.0 No license field.
+746 info package.json js-base64@2.1.9 license should be a valid SPDX license expression
+747 info package.json jsonify@0.0.0 license should be a valid SPDX license expression
+748 info package.json lazypipe@0.2.4 No license field.
+749 info package.json map-stream@0.1.0 No license field.
+750 info package.json md5-o-matic@0.1.1 No license field.
+751 info package.json mime@1.3.4 No license field.
+752 info package.json ms@0.7.1 No license field.
+753 info package.json mute-stream@0.0.3 license should be a valid SPDX license expression
+754 info package.json node-uuid@1.4.3 No license field.
+755 info package.json object.omit@1.1.0 license should be a valid SPDX license expression
+756 info package.json object.pick@1.1.1 license should be a valid SPDX license expression
+757 info package.json orchestrator@0.3.7 No license field.
+758 info package.json os-shim@0.1.3 No license field.
+759 info package.json pako@0.2.8 license should be a valid SPDX license expression
+760 info package.json preserve@0.2.0 license should be a valid SPDX license expression
+761 info package.json punycode@1.3.2 punycode is also the name of a node core module.
+762 info package.json querystring-es3@0.2.1 No license field.
+763 info package.json querystring@0.2.0 querystring is also the name of a node core module.
+764 info package.json querystring@0.2.0 No license field.
+765 info package.json q@1.1.2 license should be a valid SPDX license expression
+766 info package.json randomatic@1.1.0 license should be a valid SPDX license expression
+767 info package.json rechoir@0.6.2 No license field.
+768 info package.json repeat-element@1.1.2 license should be a valid SPDX license expression
+769 info package.json regex-cache@0.4.2 license should be a valid SPDX license expression
+770 info package.json replace-ext@0.0.1 No license field.
+771 info package.json repeat-string@1.5.2 license should be a valid SPDX license expression
+772 info package.json rework-visit@1.0.0 No repository field.
+773 info package.json rework@1.0.1 No license field.
+774 info package.json sntp@1.0.9 No license field.
+775 info package.json source-map@0.4.2 No license field.
+776 info package.json shelljs@0.3.0 license should be a valid SPDX license expression
+777 info package.json split@0.2.10 No license field.
+778 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+779 info package.json tar@1.0.3 license should be a valid SPDX license expression
+780 info package.json ternary-stream@1.2.3 No license field.
+781 info package.json textextensions@1.0.1 license should be a valid SPDX license expression
+782 info package.json timers-browserify@1.4.1 No license field.
+783 info package.json tunnel-agent@0.4.1 No license field.
+784 info package.json uglify-save-license@0.4.1 No license field.
+785 info package.json ua-parser-js@0.7.9 No license field.
+786 info package.json unique-stream@1.0.0 license should be a valid SPDX license expression
+787 info package.json underscore.string@2.4.0 No license field.
+788 info package.json underscore@1.7.0 No license field.
+789 info package.json url@0.11.0 url is also the name of a node core module.
+790 info package.json util@0.10.3 util is also the name of a node core module.
+791 info package.json utils-merge@1.0.0 No license field.
+792 info package.json vinyl-fs@0.3.14 No license field.
+793 info package.json vinyl-bufferstream@1.0.1 No license field.
+794 info package.json v8flags@2.0.10 No license field.
+795 info package.json whatwg-fetch@0.9.0 No license field.
+796 info package.json window-size@0.1.0 No license field.
+797 info package.json wordwrap@0.0.2 license should be a valid SPDX license expression
+798 info package.json yargs@3.5.4 license should be a valid SPDX license expression
+799 verbose readDependencies loading dependencies from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/package.json
+800 verbose install node-sass is installed as 3.4.1
+801 silly cache add args [ 'node-sass', null ]
+802 verbose cache add spec node-sass
+803 silly cache add parsed spec { raw: 'node-sass',
+803 silly cache add   scope: null,
+803 silly cache add   name: 'node-sass',
+803 silly cache add   rawSpec: '',
+803 silly cache add   spec: '*',
+803 silly cache add   type: 'range' }
+804 silly addNamed node-sass@*
+805 verbose addNamed "*" is a valid semver range for node-sass
+806 silly addNameRange { name: 'node-sass', range: '*', hasData: false }
+807 silly mapToRegistry name node-sass
+808 silly mapToRegistry using default registry
+809 silly mapToRegistry registry https://registry.npmjs.org/
+810 silly mapToRegistry uri https://registry.npmjs.org/node-sass
+811 verbose addNameRange registry:https://registry.npmjs.org/node-sass not in flight; fetching
+812 verbose request uri https://registry.npmjs.org/node-sass
+813 verbose request no auth needed
+814 info attempt registry request try #1 at 4:47:55 PM
+815 verbose request id 776619c1cc20bf5b
+816 verbose etag "6CLOJ9QARHMBDFJXQ5SC6WF04"
+817 http request GET https://registry.npmjs.org/node-sass
+818 http 304 https://registry.npmjs.org/node-sass
+819 silly get cb [ 304,
+819 silly get   { date: 'Thu, 05 Nov 2015 21:47:55 GMT',
+819 silly get     via: '1.1 varnish',
+819 silly get     'cache-control': 'max-age=60',
+819 silly get     etag: '"6CLOJ9QARHMBDFJXQ5SC6WF04"',
+819 silly get     age: '45',
+819 silly get     connection: 'keep-alive',
+819 silly get     'x-served-by': 'cache-iad2150-IAD',
+819 silly get     'x-cache': 'HIT',
+819 silly get     'x-cache-hits': '1',
+819 silly get     'x-timer': 'S1446760075.279409,VS0,VE1',
+819 silly get     vary: 'Accept' } ]
+820 verbose etag https://registry.npmjs.org/node-sass from cache
+821 verbose get saving node-sass to /Users/jeffscottward/.npm/registry.npmjs.org/node-sass/.cache.json
+822 silly addNameRange number 2 { name: 'node-sass', range: '*', hasData: true }
+823 silly addNameRange versions [ 'node-sass',
+823 silly addNameRange   [ '0.2.0',
+823 silly addNameRange     '0.2.1',
+823 silly addNameRange     '0.2.2',
+823 silly addNameRange     '0.2.3',
+823 silly addNameRange     '0.2.4',
+823 silly addNameRange     '0.2.5',
+823 silly addNameRange     '0.2.6',
+823 silly addNameRange     '0.3.0',
+823 silly addNameRange     '0.4.0',
+823 silly addNameRange     '0.4.1',
+823 silly addNameRange     '0.4.2',
+823 silly addNameRange     '0.4.3',
+823 silly addNameRange     '0.4.4',
+823 silly addNameRange     '0.5.0',
+823 silly addNameRange     '0.5.1',
+823 silly addNameRange     '0.5.2',
+823 silly addNameRange     '0.5.3',
+823 silly addNameRange     '0.5.4',
+823 silly addNameRange     '0.6.0',
+823 silly addNameRange     '0.6.1',
+823 silly addNameRange     '0.6.2',
+823 silly addNameRange     '0.6.3',
+823 silly addNameRange     '0.6.4',
+823 silly addNameRange     '0.6.5',
+823 silly addNameRange     '0.6.6',
+823 silly addNameRange     '0.6.7',
+823 silly addNameRange     '0.7.0-alpha',
+823 silly addNameRange     '0.7.0',
+823 silly addNameRange     '0.8.0',
+823 silly addNameRange     '0.8.1',
+823 silly addNameRange     '0.8.2',
+823 silly addNameRange     '0.8.3',
+823 silly addNameRange     '0.8.4',
+823 silly addNameRange     '0.8.5',
+823 silly addNameRange     '0.8.6',
+823 silly addNameRange     '0.9.0',
+823 silly addNameRange     '0.9.1',
+823 silly addNameRange     '0.9.2',
+823 silly addNameRange     '0.9.3',
+823 silly addNameRange     '0.9.4-rc1',
+823 silly addNameRange     '0.9.4',
+823 silly addNameRange     '0.9.5-rc1',
+823 silly addNameRange     '0.9.5',
+823 silly addNameRange     '0.9.6',
+823 silly addNameRange     '1.0.0',
+823 silly addNameRange     '1.0.1',
+823 silly addNameRange     '1.0.2-alpha',
+823 silly addNameRange     '1.0.2',
+823 silly addNameRange     '1.0.3',
+823 silly addNameRange     '1.1.0',
+823 silly addNameRange     '1.1.1',
+823 silly addNameRange     '1.1.2',
+823 silly addNameRange     '1.1.3',
+823 silly addNameRange     '1.1.4',
+823 silly addNameRange     '1.2.0',
+823 silly addNameRange     '1.2.1',
+823 silly addNameRange     '1.2.2',
+823 silly addNameRange     '1.2.3',
+823 silly addNameRange     '2.0.0-beta',
+823 silly addNameRange     '2.0.0',
+823 silly addNameRange     '2.0.1',
+823 silly addNameRange     '3.0.0-alpha.0',
+823 silly addNameRange     '3.0.0-beta.2',
+823 silly addNameRange     '3.0.0-beta.3',
+823 silly addNameRange     '3.0.0-beta.4',
+823 silly addNameRange     '2.1.0',
+823 silly addNameRange     '2.1.1',
+823 silly addNameRange     '3.0.0-beta.5',
+823 silly addNameRange     '3.0.0-beta.7',
+823 silly addNameRange     '3.0.0',
+823 silly addNameRange     '3.1.0',
+823 silly addNameRange     '3.1.1',
+823 silly addNameRange     '3.1.2',
+823 silly addNameRange     '3.2.0',
+823 silly addNameRange     '3.3.0',
+823 silly addNameRange     '3.3.1',
+823 silly addNameRange     '3.3.2',
+823 silly addNameRange     '3.3.3',
+823 silly addNameRange     '3.4.0-beta1',
+823 silly addNameRange     '3.4.0-beta.2',
+823 silly addNameRange     '3.4.0',
+823 silly addNameRange     '3.4.1' ] ]
+824 silly addNamed node-sass@3.4.1
+825 verbose addNamed "3.4.1" is a plain semver version for node-sass
+826 silly cache afterAdd node-sass@3.4.1
+827 verbose afterAdd /Users/jeffscottward/.npm/node-sass/3.4.1/package/package.json not in flight; writing
+828 verbose afterAdd /Users/jeffscottward/.npm/node-sass/3.4.1/package/package.json written
+829 silly install resolved [ { name: 'node-sass',
+829 silly install resolved     version: '3.4.1',
+829 silly install resolved     libsass: '3.3.1',
+829 silly install resolved     description: 'Wrapper around libsass',
+829 silly install resolved     license: 'MIT',
+829 silly install resolved     homepage: 'https://github.com/sass/node-sass',
+829 silly install resolved     repository:
+829 silly install resolved      { type: 'git',
+829 silly install resolved        url: 'git+https://github.com/sass/node-sass.git' },
+829 silly install resolved     author:
+829 silly install resolved      { name: 'Andrew Nesbitt',
+829 silly install resolved        email: 'andrewnez@gmail.com',
+829 silly install resolved        url: 'http://andrew.github.com' },
+829 silly install resolved     engines: { node: '>=0.10.0' },
+829 silly install resolved     main: 'lib/index.js',
+829 silly install resolved     nodeSassConfig: { binarySite: 'https://github.com/sass/node-sass/releases/download' },
+829 silly install resolved     bin: { 'node-sass': 'bin/node-sass' },
+829 silly install resolved     gypfile: true,
+829 silly install resolved     scripts:
+829 silly install resolved      { coverage: 'node scripts/coverage.js',
+829 silly install resolved        install: 'node scripts/install.js',
+829 silly install resolved        postinstall: 'node scripts/build.js',
+829 silly install resolved        pretest: 'jshint bin lib scripts test',
+829 silly install resolved        test: 'mocha test' },
+829 silly install resolved     files: [ 'bin', 'binding.gyp', 'lib', 'scripts', 'src' ],
+829 silly install resolved     keywords: [ 'css', 'libsass', 'preprocessor', 'sass', 'scss', 'style' ],
+829 silly install resolved     dependencies:
+829 silly install resolved      { 'async-foreach': '^0.1.3',
+829 silly install resolved        chalk: '^1.1.1',
+829 silly install resolved        'cross-spawn': '^2.0.0',
+829 silly install resolved        gaze: '^0.5.1',
+829 silly install resolved        'get-stdin': '^4.0.1',
+829 silly install resolved        glob: '^5.0.14',
+829 silly install resolved        meow: '^3.3.0',
+829 silly install resolved        mkdirp: '^0.5.1',
+829 silly install resolved        nan: '^2.0.8',
+829 silly install resolved        npmconf: '^2.1.2',
+829 silly install resolved        'node-gyp': '^3.0.1',
+829 silly install resolved        request: '^2.61.0',
+829 silly install resolved        'sass-graph': '^2.0.1' },
+829 silly install resolved     devDependencies:
+829 silly install resolved      { coveralls: '^2.11.4',
+829 silly install resolved        istanbul: '^0.3.18',
+829 silly install resolved        jshint: '^2.8.0',
+829 silly install resolved        mocha: '^2.2.5',
+829 silly install resolved        'mocha-lcov-reporter': '^0.0.2',
+829 silly install resolved        rimraf: '^2.4.2' },
+829 silly install resolved     gitHead: 'c107cbd2565bda9c86772201949c2e05e595923f',
+829 silly install resolved     bugs: { url: 'https://github.com/sass/node-sass/issues' },
+829 silly install resolved     _id: 'node-sass@3.4.1',
+829 silly install resolved     _shasum: 'b3c36494e39e11d85064fdd9d80ddfea0848817a',
+829 silly install resolved     _from: 'node-sass@*',
+829 silly install resolved     _npmVersion: '2.13.2',
+829 silly install resolved     _nodeVersion: '2.5.0',
+829 silly install resolved     _npmUser: { name: 'xzyfer', email: 'xzyfer@gmail.com' },
+829 silly install resolved     maintainers:
+829 silly install resolved      [ [Object],
+829 silly install resolved        [Object],
+829 silly install resolved        [Object],
+829 silly install resolved        [Object],
+829 silly install resolved        [Object],
+829 silly install resolved        [Object],
+829 silly install resolved        [Object] ],
+829 silly install resolved     dist:
+829 silly install resolved      { shasum: 'b3c36494e39e11d85064fdd9d80ddfea0848817a',
+829 silly install resolved        tarball: 'http://registry.npmjs.org/node-sass/-/node-sass-3.4.1.tgz' },
+829 silly install resolved     directories: {},
+829 silly install resolved     _resolved: 'https://registry.npmjs.org/node-sass/-/node-sass-3.4.1.tgz',
+829 silly install resolved     readme: 'ERROR: No README data found!' } ]
+830 info install node-sass@3.4.1 into /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+831 info installOne node-sass@3.4.1
+832 verbose installOne of node-sass to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf not in flight; installing
+833 verbose lock using /Users/jeffscottward/.npm/_locks/node-sass-37667aad58d0395e.lock for /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+834 silly install write writing node-sass 3.4.1 to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+835 verbose unbuild node_modules/node-sass
+836 info preuninstall node-sass@3.4.1
+837 info uninstall node-sass@3.4.1
+838 verbose unbuild rmStuff node-sass@3.4.1 from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules
+839 silly gentlyRm /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin/node-sass is being gently removed
+840 silly gentlyRm verifying /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf is an npm working directory
+841 silly gentlyRm containing path /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf is under npm's control, in /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+842 silly gentlyRm deletion target /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin/node-sass is under /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+843 verbose gentlyRm vacuuming from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin/node-sass up to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+844 silly vacuum-fs removing /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin/node-sass
+845 silly vacuum-fs quitting because other entries in /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin
+846 info postuninstall node-sass@3.4.1
+847 silly gentlyRm /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass is being purged from base /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+848 verbose gentlyRm don't care about contents; nuking /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+849 silly vacuum-fs purging /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+850 silly vacuum-fs quitting because other entries in /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules
+851 verbose tar unpack /Users/jeffscottward/.npm/node-sass/3.4.1/package.tgz
+852 verbose tar unpacking to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+853 silly gentlyRm /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass is being purged
+854 verbose gentlyRm don't care about contents; nuking /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+855 silly gunzTarPerm modes [ '755', '644' ]
+856 silly gunzTarPerm extractEntry package.json
+857 silly gunzTarPerm extractEntry README.md
+858 silly gunzTarPerm extractEntry LICENSE
+859 silly gunzTarPerm extractEntry bin/node-sass
+860 silly gunzTarPerm extractEntry binding.gyp
+861 silly gunzTarPerm extractEntry lib/extensions.js
+862 silly gunzTarPerm extractEntry lib/index.js
+863 silly gunzTarPerm extractEntry lib/render.js
+864 silly gunzTarPerm extractEntry scripts/build.js
+865 silly gunzTarPerm extractEntry scripts/coverage.js
+866 silly gunzTarPerm extractEntry scripts/install.js
+867 silly gunzTarPerm extractEntry src/custom_importer_bridge.cpp
+868 silly gunzTarPerm extractEntry src/binding.cpp
+869 silly gunzTarPerm extractEntry src/create_string.cpp
+870 silly gunzTarPerm extractEntry src/create_string.h
+871 silly gunzTarPerm extractEntry src/custom_function_bridge.cpp
+872 silly gunzTarPerm extractEntry src/custom_function_bridge.h
+873 silly gunzTarPerm extractEntry src/callback_bridge.h
+874 silly gunzTarPerm extractEntry src/custom_importer_bridge.h
+875 silly gunzTarPerm extractEntry src/libsass/.npmignore
+876 silly gunzTarPerm extractEntry src/libsass/LICENSE
+877 silly gunzTarPerm extractEntry src/libsass/appveyor.yml
+878 silly gunzTarPerm extractEntry src/libsass/.travis.yml
+879 silly gunzTarPerm extractEntry src/libsass/COPYING
+880 silly gunzTarPerm extractEntry src/libsass/GNUmakefile.am
+881 silly gunzTarPerm extractEntry src/libsass/INSTALL
+882 silly gunzTarPerm extractEntry src/libsass/.editorconfig
+883 silly gunzTarPerm extractEntry src/libsass/Makefile
+884 silly gunzTarPerm extractEntry src/libsass/Makefile.conf
+885 silly gunzTarPerm extractEntry src/libsass/Readme.md
+886 silly gunzTarPerm extractEntry src/libsass/SECURITY.md
+887 silly gunzTarPerm extractEntry src/libsass/.gitattributes
+888 silly gunzTarPerm extractEntry src/libsass/configure.ac
+889 silly gunzTarPerm extractEntry src/libsass/contrib/libsass.spec
+890 silly gunzTarPerm extractEntry src/libsass/contrib/plugin.cpp
+891 silly gunzTarPerm extractEntry src/libsass/docs/README.md
+892 silly gunzTarPerm extractEntry src/libsass/docs/unicode.md
+893 silly gunzTarPerm extractEntry src/libsass/docs/api-context-internal.md
+894 silly gunzTarPerm extractEntry src/libsass/docs/api-context.md
+895 silly gunzTarPerm extractEntry src/libsass/docs/api-doc.md
+896 silly gunzTarPerm extractEntry src/libsass/docs/api-function-example.md
+897 silly gunzTarPerm extractEntry src/libsass/docs/api-function-internal.md
+898 silly gunzTarPerm extractEntry src/libsass/docs/api-function.md
+899 silly gunzTarPerm extractEntry src/libsass/docs/api-importer-example.md
+900 silly gunzTarPerm extractEntry src/libsass/docs/api-importer-internal.md
+901 silly gunzTarPerm extractEntry src/libsass/docs/api-importer.md
+902 silly gunzTarPerm extractEntry src/libsass/docs/api-value-example.md
+903 silly gunzTarPerm extractEntry src/libsass/docs/api-value-internal.md
+904 silly gunzTarPerm extractEntry src/libsass/docs/api-value.md
+905 silly gunzTarPerm extractEntry src/libsass/docs/build-on-darwin.md
+906 silly gunzTarPerm extractEntry src/libsass/docs/build-on-gentoo.md
+907 silly gunzTarPerm extractEntry src/libsass/docs/api-context-example.md
+908 silly gunzTarPerm extractEntry src/libsass/docs/build-shared-library.md
+909 silly gunzTarPerm extractEntry src/libsass/docs/build-with-autotools.md
+910 silly gunzTarPerm extractEntry src/libsass/docs/build-with-makefiles.md
+911 silly gunzTarPerm extractEntry src/libsass/docs/build-with-mingw.md
+912 silly gunzTarPerm extractEntry src/libsass/docs/build-with-visual-studio.md
+913 silly gunzTarPerm extractEntry src/libsass/docs/build.md
+914 silly gunzTarPerm extractEntry src/libsass/docs/compatibility-plan.md
+915 silly gunzTarPerm extractEntry src/libsass/docs/contributing.md
+916 silly gunzTarPerm extractEntry src/libsass/docs/custom-functions-internal.md
+917 silly gunzTarPerm extractEntry src/libsass/docs/implementations.md
+918 silly gunzTarPerm extractEntry src/libsass/docs/plugins.go
+919 silly gunzTarPerm extractEntry src/libsass/docs/setup-environment.md
+920 silly gunzTarPerm extractEntry src/libsass/docs/source-map-internals.md
+921 silly gunzTarPerm extractEntry src/libsass/docs/trace.md
+922 silly gunzTarPerm extractEntry src/libsass/docs/triage.md
+923 silly gunzTarPerm extractEntry src/libsass/docs/build-on-windows.md
+924 silly gunzTarPerm extractEntry src/libsass/extconf.rb
+925 silly gunzTarPerm extractEntry src/libsass/include/sass/base.h
+926 silly gunzTarPerm extractEntry src/libsass/include/sass/context.h
+927 silly gunzTarPerm extractEntry src/libsass/include/sass/functions.h
+928 silly gunzTarPerm extractEntry src/libsass/include/sass/interface.h
+929 silly gunzTarPerm extractEntry src/libsass/include/sass/values.h
+930 silly gunzTarPerm extractEntry src/libsass/include/sass/version.h
+931 silly gunzTarPerm extractEntry src/libsass/include/sass/version.h.in
+932 silly gunzTarPerm extractEntry src/libsass/include/sass.h
+933 silly gunzTarPerm extractEntry src/libsass/include/sass2scss.h
+934 silly gunzTarPerm extractEntry src/libsass/m4/.gitkeep
+935 silly gunzTarPerm extractEntry src/libsass/m4/m4-ax_cxx_compile_stdcxx_11.m4
+936 silly gunzTarPerm extractEntry src/libsass/res/resource.rc
+937 silly gunzTarPerm extractEntry src/libsass/script/bootstrap
+938 silly gunzTarPerm extractEntry src/libsass/script/branding
+939 silly gunzTarPerm extractEntry src/libsass/script/ci-build-libsass
+940 silly gunzTarPerm extractEntry src/libsass/script/ci-install-compiler
+941 silly gunzTarPerm extractEntry src/libsass/script/ci-install-deps
+942 silly gunzTarPerm extractEntry src/libsass/script/ci-report-coverage
+943 silly gunzTarPerm extractEntry src/libsass/script/coveralls-debug
+944 silly gunzTarPerm extractEntry src/libsass/script/spec
+945 silly gunzTarPerm extractEntry src/libsass/script/tap-driver
+946 silly gunzTarPerm extractEntry src/libsass/script/tap-runner
+947 silly gunzTarPerm extractEntry src/libsass/src/listize.hpp
+948 silly gunzTarPerm extractEntry src/libsass/src/GNUmakefile.am
+949 silly gunzTarPerm extractEntry src/libsass/src/ast.hpp
+950 silly gunzTarPerm extractEntry src/libsass/src/ast_def_macros.hpp
+951 silly gunzTarPerm extractEntry src/libsass/src/ast_factory.hpp
+952 silly gunzTarPerm extractEntry src/libsass/src/ast_fwd_decl.hpp
+953 silly gunzTarPerm extractEntry src/libsass/src/b64/cencode.h
+954 silly gunzTarPerm extractEntry src/libsass/src/b64/encode.h
+955 silly gunzTarPerm extractEntry src/libsass/src/backtrace.hpp
+956 silly gunzTarPerm extractEntry src/libsass/src/base64vlq.cpp
+957 silly gunzTarPerm extractEntry src/libsass/src/base64vlq.hpp
+958 silly gunzTarPerm extractEntry src/libsass/src/bind.cpp
+959 silly gunzTarPerm extractEntry src/libsass/src/bind.hpp
+960 silly gunzTarPerm extractEntry src/libsass/src/c99func.c
+961 silly gunzTarPerm extractEntry src/libsass/src/cencode.c
+962 silly gunzTarPerm extractEntry src/libsass/src/color_maps.cpp
+963 silly gunzTarPerm extractEntry src/libsass/src/color_maps.hpp
+964 silly gunzTarPerm extractEntry src/libsass/src/constants.cpp
+965 silly gunzTarPerm extractEntry src/libsass/src/constants.hpp
+966 silly gunzTarPerm extractEntry src/libsass/src/context.cpp
+967 silly gunzTarPerm extractEntry src/libsass/src/context.hpp
+968 silly gunzTarPerm extractEntry src/libsass/src/cssize.cpp
+969 silly gunzTarPerm extractEntry src/libsass/src/cssize.hpp
+970 silly gunzTarPerm extractEntry src/libsass/src/debug.hpp
+971 silly gunzTarPerm extractEntry src/libsass/src/debugger.hpp
+972 silly gunzTarPerm extractEntry src/libsass/src/emitter.cpp
+973 silly gunzTarPerm extractEntry src/libsass/src/emitter.hpp
+974 silly gunzTarPerm extractEntry src/libsass/src/environment.cpp
+975 silly gunzTarPerm extractEntry src/libsass/src/environment.hpp
+976 silly gunzTarPerm extractEntry src/libsass/src/error_handling.cpp
+977 silly gunzTarPerm extractEntry src/libsass/src/error_handling.hpp
+978 silly gunzTarPerm extractEntry src/libsass/src/eval.cpp
+979 silly gunzTarPerm extractEntry src/libsass/src/eval.hpp
+980 silly gunzTarPerm extractEntry src/libsass/src/expand.cpp
+981 silly gunzTarPerm extractEntry src/libsass/src/expand.hpp
+982 silly gunzTarPerm extractEntry src/libsass/src/extend.cpp
+983 silly gunzTarPerm extractEntry src/libsass/src/extend.hpp
+984 silly gunzTarPerm extractEntry src/libsass/src/file.cpp
+985 silly gunzTarPerm extractEntry src/libsass/src/file.hpp
+986 silly gunzTarPerm extractEntry src/libsass/src/functions.cpp
+987 silly gunzTarPerm extractEntry src/libsass/src/functions.hpp
+988 silly gunzTarPerm extractEntry src/libsass/src/inspect.cpp
+989 silly gunzTarPerm extractEntry src/libsass/src/inspect.hpp
+990 silly gunzTarPerm extractEntry src/libsass/src/json.cpp
+991 silly gunzTarPerm extractEntry src/libsass/src/json.hpp
+992 silly gunzTarPerm extractEntry src/libsass/src/kwd_arg_macros.hpp
+993 silly gunzTarPerm extractEntry src/libsass/src/lexer.cpp
+994 silly gunzTarPerm extractEntry src/libsass/src/lexer.hpp
+995 silly gunzTarPerm extractEntry src/libsass/src/listize.cpp
+996 silly gunzTarPerm extractEntry src/libsass/src/ast.cpp
+997 silly gunzTarPerm extractEntry src/libsass/src/mapping.hpp
+998 silly gunzTarPerm extractEntry src/libsass/src/memory_manager.cpp
+999 silly gunzTarPerm extractEntry src/libsass/src/memory_manager.hpp
+1000 silly gunzTarPerm extractEntry src/libsass/src/node.cpp
+1001 silly gunzTarPerm extractEntry src/libsass/src/node.hpp
+1002 silly gunzTarPerm extractEntry src/libsass/src/operation.hpp
+1003 silly gunzTarPerm extractEntry src/libsass/src/output.cpp
+1004 silly gunzTarPerm extractEntry src/libsass/src/output.hpp
+1005 silly gunzTarPerm extractEntry src/libsass/src/parser.cpp
+1006 silly gunzTarPerm extractEntry src/libsass/src/parser.hpp
+1007 silly gunzTarPerm extractEntry src/libsass/src/paths.hpp
+1008 silly gunzTarPerm extractEntry src/libsass/src/plugins.cpp
+1009 silly gunzTarPerm extractEntry src/libsass/src/plugins.hpp
+1010 silly gunzTarPerm extractEntry src/libsass/src/position.cpp
+1011 silly gunzTarPerm extractEntry src/libsass/src/position.hpp
+1012 silly gunzTarPerm extractEntry src/libsass/src/prelexer.cpp
+1013 silly gunzTarPerm extractEntry src/libsass/src/prelexer.hpp
+1014 silly gunzTarPerm extractEntry src/libsass/src/remove_placeholders.cpp
+1015 silly gunzTarPerm extractEntry src/libsass/src/remove_placeholders.hpp
+1016 silly gunzTarPerm extractEntry src/libsass/src/sass.cpp
+1017 silly gunzTarPerm extractEntry src/libsass/src/sass2scss.cpp
+1018 silly gunzTarPerm extractEntry src/libsass/src/sass_context.cpp
+1019 silly gunzTarPerm extractEntry src/libsass/src/sass_functions.cpp
+1020 silly gunzTarPerm extractEntry src/libsass/src/sass_interface.cpp
+1021 silly gunzTarPerm extractEntry src/libsass/src/sass_util.cpp
+1022 silly gunzTarPerm extractEntry src/libsass/src/sass_util.hpp
+1023 silly gunzTarPerm extractEntry src/libsass/src/sass_values.cpp
+1024 silly gunzTarPerm extractEntry src/libsass/src/source_map.cpp
+1025 silly gunzTarPerm extractEntry src/libsass/src/source_map.hpp
+1026 silly gunzTarPerm extractEntry src/libsass/src/subset_map.hpp
+1027 silly gunzTarPerm extractEntry src/libsass/src/support/libsass.pc.in
+1028 silly gunzTarPerm extractEntry src/libsass/src/to_c.cpp
+1029 silly gunzTarPerm extractEntry src/libsass/src/to_c.hpp
+1030 silly gunzTarPerm extractEntry src/libsass/src/to_string.cpp
+1031 silly gunzTarPerm extractEntry src/libsass/src/to_string.hpp
+1032 silly gunzTarPerm extractEntry src/libsass/src/to_value.cpp
+1033 silly gunzTarPerm extractEntry src/libsass/src/to_value.hpp
+1034 silly gunzTarPerm extractEntry src/libsass/src/units.cpp
+1035 silly gunzTarPerm extractEntry src/libsass/src/units.hpp
+1036 silly gunzTarPerm extractEntry src/libsass/src/utf8/checked.h
+1037 silly gunzTarPerm extractEntry src/libsass/src/utf8/core.h
+1038 silly gunzTarPerm extractEntry src/libsass/src/utf8/unchecked.h
+1039 silly gunzTarPerm extractEntry src/libsass/src/utf8.h
+1040 silly gunzTarPerm extractEntry src/libsass/src/utf8_string.cpp
+1041 silly gunzTarPerm extractEntry src/libsass/src/utf8_string.hpp
+1042 silly gunzTarPerm extractEntry src/libsass/src/util.cpp
+1043 silly gunzTarPerm extractEntry src/libsass/src/util.hpp
+1044 silly gunzTarPerm extractEntry src/libsass/src/values.cpp
+1045 silly gunzTarPerm extractEntry src/libsass/src/values.hpp
+1046 silly gunzTarPerm extractEntry src/libsass/test/test_node.cpp
+1047 silly gunzTarPerm extractEntry src/libsass/test/test_paths.cpp
+1048 silly gunzTarPerm extractEntry src/libsass/test/test_selector_difference.cpp
+1049 silly gunzTarPerm extractEntry src/libsass/test/test_specificity.cpp
+1050 silly gunzTarPerm extractEntry src/libsass/test/test_subset_map.cpp
+1051 silly gunzTarPerm extractEntry src/libsass/test/test_superselector.cpp
+1052 silly gunzTarPerm extractEntry src/libsass/test/test_unification.cpp
+1053 silly gunzTarPerm extractEntry src/libsass/version.sh
+1054 silly gunzTarPerm extractEntry src/libsass/win/libsass.sln
+1055 silly gunzTarPerm extractEntry src/libsass/win/libsass.targets
+1056 silly gunzTarPerm extractEntry src/libsass/win/libsass.vcxproj
+1057 silly gunzTarPerm extractEntry src/libsass/win/libsass.vcxproj.filters
+1058 silly gunzTarPerm extractEntry src/libsass.gyp
+1059 silly gunzTarPerm extractEntry src/sass_context_wrapper.cpp
+1060 silly gunzTarPerm extractEntry src/sass_context_wrapper.h
+1061 silly gunzTarPerm extractEntry src/sass_types/map.cpp
+1062 silly gunzTarPerm extractEntry src/sass_types/boolean.cpp
+1063 silly gunzTarPerm extractEntry src/sass_types/color.cpp
+1064 silly gunzTarPerm extractEntry src/sass_types/color.h
+1065 silly gunzTarPerm extractEntry src/sass_types/error.cpp
+1066 silly gunzTarPerm extractEntry src/sass_types/error.h
+1067 silly gunzTarPerm extractEntry src/sass_types/factory.cpp
+1068 silly gunzTarPerm extractEntry src/sass_types/factory.h
+1069 silly gunzTarPerm extractEntry src/sass_types/list.cpp
+1070 silly gunzTarPerm extractEntry src/sass_types/list.h
+1071 silly gunzTarPerm extractEntry src/sass_types/boolean.h
+1072 silly gunzTarPerm extractEntry src/sass_types/map.h
+1073 silly gunzTarPerm extractEntry src/sass_types/null.cpp
+1074 silly gunzTarPerm extractEntry src/sass_types/null.h
+1075 silly gunzTarPerm extractEntry src/sass_types/number.cpp
+1076 silly gunzTarPerm extractEntry src/sass_types/number.h
+1077 silly gunzTarPerm extractEntry src/sass_types/sass_value_wrapper.h
+1078 silly gunzTarPerm extractEntry src/sass_types/string.cpp
+1079 silly gunzTarPerm extractEntry src/sass_types/string.h
+1080 silly gunzTarPerm extractEntry src/sass_types/value.h
+1081 verbose write writing to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/package.json
+1082 info preinstall node-sass@3.4.1
+1083 verbose readDependencies loading dependencies from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/package.json
+1084 silly prepareForInstallMany adding get-stdin@^4.0.1 from node-sass dependencies
+1085 verbose readDependencies loading dependencies from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/package.json
+1086 silly cache add args [ 'get-stdin@^4.0.1', null ]
+1087 verbose cache add spec get-stdin@^4.0.1
+1088 silly cache add parsed spec { raw: 'get-stdin@^4.0.1',
+1088 silly cache add   scope: null,
+1088 silly cache add   name: 'get-stdin',
+1088 silly cache add   rawSpec: '^4.0.1',
+1088 silly cache add   spec: '>=4.0.1 <5.0.0',
+1088 silly cache add   type: 'range' }
+1089 silly addNamed get-stdin@>=4.0.1 <5.0.0
+1090 verbose addNamed ">=4.0.1 <5.0.0" is a valid semver range for get-stdin
+1091 silly addNameRange { name: 'get-stdin', range: '>=4.0.1 <5.0.0', hasData: false }
+1092 silly mapToRegistry name get-stdin
+1093 silly mapToRegistry using default registry
+1094 silly mapToRegistry registry https://registry.npmjs.org/
+1095 silly mapToRegistry uri https://registry.npmjs.org/get-stdin
+1096 verbose addNameRange registry:https://registry.npmjs.org/get-stdin not in flight; fetching
+1097 verbose request uri https://registry.npmjs.org/get-stdin
+1098 verbose request no auth needed
+1099 info attempt registry request try #1 at 4:47:55 PM
+1100 verbose etag "8RKDTQ0Z30CPHXIR245QXE6WL"
+1101 http request GET https://registry.npmjs.org/get-stdin
+1102 http 304 https://registry.npmjs.org/get-stdin
+1103 silly get cb [ 304,
+1103 silly get   { date: 'Thu, 05 Nov 2015 21:47:55 GMT',
+1103 silly get     via: '1.1 varnish',
+1103 silly get     'cache-control': 'max-age=60',
+1103 silly get     etag: '"8RKDTQ0Z30CPHXIR245QXE6WL"',
+1103 silly get     age: '22',
+1103 silly get     connection: 'keep-alive',
+1103 silly get     'x-served-by': 'cache-iad2146-IAD',
+1103 silly get     'x-cache': 'HIT',
+1103 silly get     'x-cache-hits': '5',
+1103 silly get     'x-timer': 'S1446760075.817109,VS0,VE0',
+1103 silly get     vary: 'Accept' } ]
+1104 verbose etag https://registry.npmjs.org/get-stdin from cache
+1105 verbose get saving get-stdin to /Users/jeffscottward/.npm/registry.npmjs.org/get-stdin/.cache.json
+1106 silly addNameRange number 2 { name: 'get-stdin', range: '>=4.0.1 <5.0.0', hasData: true }
+1107 silly addNameRange versions [ 'get-stdin',
+1107 silly addNameRange   [ '0.1.0',
+1107 silly addNameRange     '1.0.0',
+1107 silly addNameRange     '2.0.0',
+1107 silly addNameRange     '3.0.0',
+1107 silly addNameRange     '3.0.1',
+1107 silly addNameRange     '3.0.2',
+1107 silly addNameRange     '4.0.0',
+1107 silly addNameRange     '4.0.1',
+1107 silly addNameRange     '5.0.0' ] ]
+1108 silly addNamed get-stdin@4.0.1
+1109 verbose addNamed "4.0.1" is a plain semver version for get-stdin
+1110 silly cache afterAdd get-stdin@4.0.1
+1111 verbose afterAdd /Users/jeffscottward/.npm/get-stdin/4.0.1/package/package.json not in flight; writing
+1112 verbose afterAdd /Users/jeffscottward/.npm/get-stdin/4.0.1/package/package.json written
+1113 silly install resolved [ { name: 'get-stdin',
+1113 silly install resolved     version: '4.0.1',
+1113 silly install resolved     description: 'Easier stdin',
+1113 silly install resolved     license: 'MIT',
+1113 silly install resolved     repository:
+1113 silly install resolved      { type: 'git',
+1113 silly install resolved        url: 'git+https://github.com/sindresorhus/get-stdin.git' },
+1113 silly install resolved     author:
+1113 silly install resolved      { name: 'Sindre Sorhus',
+1113 silly install resolved        email: 'sindresorhus@gmail.com',
+1113 silly install resolved        url: 'http://sindresorhus.com' },
+1113 silly install resolved     engines: { node: '>=0.10.0' },
+1113 silly install resolved     scripts: { test: 'node test.js && node test-buffer.js && echo unicorns | node test-real.js' },
+1113 silly install resolved     files: [ 'index.js' ],
+1113 silly install resolved     keywords:
+1113 silly install resolved      [ 'std',
+1113 silly install resolved        'stdin',
+1113 silly install resolved        'stdio',
+1113 silly install resolved        'concat',
+1113 silly install resolved        'buffer',
+1113 silly install resolved        'stream',
+1113 silly install resolved        'process',
+1113 silly install resolved        'stream' ],
+1113 silly install resolved     devDependencies: { ava: '0.0.4', 'buffer-equal': '0.0.1' },
+1113 silly install resolved     gitHead: '65c744975229b25d6cc5c7546f49b6ad9099553f',
+1113 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/get-stdin/issues' },
+1113 silly install resolved     homepage: 'https://github.com/sindresorhus/get-stdin',
+1113 silly install resolved     _id: 'get-stdin@4.0.1',
+1113 silly install resolved     _shasum: 'b968c6b0a04384324902e8bf1a5df32579a450fe',
+1113 silly install resolved     _from: 'get-stdin@>=4.0.1 <5.0.0',
+1113 silly install resolved     _npmVersion: '1.4.28',
+1113 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+1113 silly install resolved     maintainers: [ [Object] ],
+1113 silly install resolved     dist:
+1113 silly install resolved      { shasum: 'b968c6b0a04384324902e8bf1a5df32579a450fe',
+1113 silly install resolved        tarball: 'http://registry.npmjs.org/get-stdin/-/get-stdin-4.0.1.tgz' },
+1113 silly install resolved     directories: {},
+1113 silly install resolved     _resolved: 'https://registry.npmjs.org/get-stdin/-/get-stdin-4.0.1.tgz',
+1113 silly install resolved     readme: 'ERROR: No README data found!' } ]
+1114 info install get-stdin@4.0.1 into /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+1115 info installOne get-stdin@4.0.1
+1116 verbose installOne of get-stdin to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass not in flight; installing
+1117 verbose lock using /Users/jeffscottward/.npm/_locks/get-stdin-469e2257e523a97c.lock for /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1118 silly install write writing get-stdin 4.0.1 to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1119 verbose unbuild node_modules/node-sass/node_modules/get-stdin
+1120 silly gentlyRm /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin is being purged from base /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+1121 verbose gentlyRm don't care about contents; nuking /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1122 verbose tar unpack /Users/jeffscottward/.npm/get-stdin/4.0.1/package.tgz
+1123 verbose tar unpacking to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1124 silly gentlyRm /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin is being purged
+1125 verbose gentlyRm don't care about contents; nuking /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1126 silly gunzTarPerm modes [ '755', '644' ]
+1127 silly gunzTarPerm extractEntry package.json
+1128 silly gunzTarPerm extractEntry index.js
+1129 silly gunzTarPerm extractEntry readme.md
+1130 verbose write writing to /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin/package.json
+1131 info preinstall get-stdin@4.0.1
+1132 verbose readDependencies loading dependencies from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin/package.json
+1133 verbose readDependencies loading dependencies from /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin/package.json
+1134 silly install resolved []
+1135 verbose about to build /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1136 info build /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1137 info linkStuff get-stdin@4.0.1
+1138 silly linkStuff get-stdin@4.0.1 has /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules as its parent node_modules
+1139 verbose linkBins get-stdin@4.0.1
+1140 verbose linkMans get-stdin@4.0.1
+1141 verbose rebuildBundles get-stdin@4.0.1
+1142 info install get-stdin@4.0.1
+1143 info postinstall get-stdin@4.0.1
+1144 verbose unlock done using /Users/jeffscottward/.npm/_locks/get-stdin-469e2257e523a97c.lock for /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass/node_modules/get-stdin
+1145 verbose about to build /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+1146 info build /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+1147 info linkStuff node-sass@3.4.1
+1148 silly linkStuff node-sass@3.4.1 has /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules as its parent node_modules
+1149 verbose linkBins node-sass@3.4.1
+1150 verbose link bins [ { 'node-sass': 'bin/node-sass' },
+1150 verbose link bins   '/Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin',
+1150 verbose link bins   false ]
+1151 verbose linkMans node-sass@3.4.1
+1152 verbose rebuildBundles node-sass@3.4.1
+1153 verbose rebuildBundles [ 'get-stdin' ]
+1154 silly gentlyRm /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin/node-sass is being purged
+1155 verbose gentlyRm don't care about contents; nuking /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/.bin/node-sass
+1156 info install node-sass@3.4.1
+1157 verbose unsafe-perm in lifecycle true
+1158 info postinstall node-sass@3.4.1
+1159 verbose unsafe-perm in lifecycle true
+1160 verbose unlock done using /Users/jeffscottward/.npm/_locks/node-sass-37667aad58d0395e.lock for /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/node_modules/node-sass
+1161 verbose validateInstall loading /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf/package.json for validation
+1162 verbose stack Error: The package react does not satisfy its siblings' peerDependencies requirements!
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/lib/install.js:125:32
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/lib/install.js:267:7
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:138:5
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+1162 verbose stack     at cb (/Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+1162 verbose stack     at cb (/Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+1162 verbose stack     at cb (/Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+1162 verbose stack     at /Users/jeffscottward/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+1163 verbose cwd /Users/jeffscottward/Documents/Development/Projects/jeffscottward.wtf
+1164 error Darwin 14.5.0
+1165 error argv "/Users/jeffscottward/.nvm/versions/node/v0.12.7/bin/node" "/Users/jeffscottward/.nvm/versions/node/v0.12.7/bin/npm" "install" "--save" "node-sass"
+1166 error node v0.12.7
+1167 error npm  v2.11.3
+1168 error code EPEERINVALID
+1169 error peerinvalid The package react does not satisfy its siblings' peerDependencies requirements!
+1169 error peerinvalid Peer react-dom@0.14.2 wants react@^0.14.2
+1169 error peerinvalid Peer react-motion@0.2.7 wants react@>=0.13.2 || ^0.14.0-beta1
+1170 verbose exit [ 1, true ]

@@ -1,13 +1,12 @@
 var React = require('react');
 
 module.exports = React.createClass({
- componentWillMount(){},
  render: function() {
     return (
       	<div className="SiteAbout">
       		<div className="ui main text container">
-				<h2>Jeff Ward</h2>
-				<iframe src="https://cdn.rawgit.com/jeffscottward/ethereum-logo-3d/master/index.html" width="220" height="600"></iframe>
+				<h2>Jeff Scott Ward</h2>
+				<iframe src="https://cdn.rawgit.com/jeffscottward/ethereum-logo-3d/master/index.html" width="125" height="400"></iframe>
 				<div className="about-body">
 					<h3>User Interface Engineer, Creative Technologist, Decentralized Futurist.</h3>
 					<p>Jeff is constantly thinking about the future. The Internet of Things. Bitcoin. Decentralized Web 3.0. Full-stack Javascript. The world is moving ever faster towards the singularity and he hopes to be ready for it. </p>

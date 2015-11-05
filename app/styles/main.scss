@@ -66,13 +66,31 @@
 		display: inline-block;
 		vertical-align: top;
 		clear: both;
+		transform: translateX(-10px);
+		margin: 0 30px;
 	}
 
 	.about-body {
 		display: inline-block;
 		vertical-align: top;
-		width: calc(100% - 220px);
+		width: calc(100% - 185px);
 	}
+}
+
+.linkedinBTN {
+	width: 156px;
+    overflow: hidden;
+    display: block;
+    height: 29px;
+    border-radius: 5px;
+    position: relative;
+
+	img {
+		display: block;
+	    position: absolute;
+    	left: -2px;
+    	top: -2px;
+    }
 }
 
 @keyframes moveBG {

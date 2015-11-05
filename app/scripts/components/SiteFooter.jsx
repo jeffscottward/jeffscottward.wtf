@@ -7,39 +7,21 @@ module.exports = React.createClass({
         <div className="ui inverted vertical footer segment">
             <div className="ui center aligned container">
               <div className="ui stackable inverted divided grid">
-                <div className="three wide column">
-                  <h4 className="ui inverted header">Group 1</h4>
-                  <div className="ui inverted link list">
-                    <a href="#" className="item">Link One</a>
-                    <a href="#" className="item">Link Two</a>
-                  </div>
-                </div>
-                <div className="three wide column">
-                  <h4 className="ui inverted header">Group 2</h4>
-                  <div className="ui inverted link list">
-                    <a href="#" className="item">Link One</a>
-                    <a href="#" className="item">Link Two</a>
-                  </div>
-                </div>
-                <div className="three wide column">
-                  <h4 className="ui inverted header">Group 3</h4>
-                  <div className="ui inverted link list">
-                    <a href="#" className="item">Link One</a>
-                    <a href="#" className="item">Link Two</a>
-                  </div>
-                </div>
-                <div className="seven wide column">
-                  <h4 className="ui inverted header">Footer Header</h4>
-                  <p>Extra space for a call to action inside the footer that could help re-engage users.</p>
+                <div className="sixteen wide column">
+                  <h4 className="ui inverted header">Follow me... into the future</h4>
+                  <br/>
+                  <a href="https://twitter.com/jeffscottward" className="twitter-follow-button" data-show-count="false" data-size="large">Follow @jeffscottward</a>
+                  <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+                  <a href="https://github.com/jeffscottward"  className="github-button" data-style="mega" aria-label="Follow @jeffscottward on GitHub">Follow @jeffscottward</a>
                 </div>
               </div>
               <div className="ui inverted section divider"></div>
               {/*<img src="assets/images/logo.png" className="ui centered mini image"/>*/}
               <div className="ui horizontal inverted small divided link list">
-                <a className="item" href="#">Site Map</a>
-                <a className="item" href="#">Contact Us</a>
-                <a className="item" href="#">Terms and Conditions</a>
-                <a className="item" href="#">Privacy Policy</a>
+                <a className="item">Site Map</a>
+                <a className="item">Contact Us</a>
+                <a className="item">Terms and Conditions</a>
+                <a className="item">Privacy Policy</a>
               </div>
             </div>
           </div>
