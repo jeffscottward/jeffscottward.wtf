@@ -7,7 +7,6 @@ module.exports = React.createClass({
  render: function() {
     return (
       <div className="AppMain">
-      	<SiteHeader/>
         <SiteBody/>
         <SiteFooter/>
       </div>

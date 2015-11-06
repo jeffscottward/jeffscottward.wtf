@@ -18474,14 +18474,6 @@ html.ios, html.ios body {
   75% {
     transform: scale3d(1.05, 0.95, 1); } }
 
-.body-render {
-  position: relative;
-  clear: both; }
-
-.text.main.container {
-  margin: 4em auto;
-  clear: both; }
-
 .SiteHeader .segment {
   padding: 0; }
 
@@ -18515,6 +18507,17 @@ html.ios, html.ios body {
   .SiteBody .body-divider {
     padding: .25rem; }
 
+.SiteBlog h1 {
+  margin-bottom: 40px; }
+
+.SiteBlog .blog-post {
+  position: relative; }
+
+.SiteBlog .blog-post-date {
+  position: absolute;
+  top: 0;
+  right: 0; }
+
 .SiteAbout iframe {
   border: none;
   display: inline-block;
@@ -18528,6 +18531,34 @@ html.ios, html.ios body {
   vertical-align: top;
   width: calc(100% - 185px); }
 
+.SiteTalks .talk-list {
+  list-style: none; }
+  .SiteTalks .talk-list * {
+    max-width: 100%; }
+
+.text.main.container {
+  margin: 4em auto;
+  clear: both; }
+
+.body-render {
+  position: relative;
+  clear: both; }
+
+h1 {
+  font-size: 3rem !important; }
+
+@keyframes moveBG {
+  from {
+    transform: translateY(0); }
+  to {
+    transform: translateY(-910px); } }
+
+@media only screen and (max-width: 767px) {
+  .ui.background.container {
+    width: auto !important;
+    width: 100% !important;
+    margin: 0 !important; } }
+
 .linkedinBTN {
   width: 156px;
   overflow: hidden;
@@ -18540,9 +18571,3 @@ html.ios, html.ios body {
     position: absolute;
     left: -2px;
     top: -2px; }
-
-@keyframes moveBG {
-  from {
-    transform: translateY(0); }
-  to {
-    transform: translateY(-910px); } }

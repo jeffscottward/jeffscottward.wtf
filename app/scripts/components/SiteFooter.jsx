@@ -19,7 +19,6 @@ module.exports = React.createClass({
               {/*<img src="assets/images/logo.png" className="ui centered mini image"/>*/}
               <div className="ui horizontal inverted small divided link list">
                 <a className="item">Site Map</a>
-                <a className="item">Contact Us</a>
                 <a className="item">Terms and Conditions</a>
                 <a className="item">Privacy Policy</a>
               </div>
