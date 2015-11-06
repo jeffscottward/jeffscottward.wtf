@@ -54,7 +54,7 @@ module.exports = React.createClass({
     console.log(this.state.currentItem);
 
     return (
-      <div>
+      <div className="SiteWrapper">
         <header className="SiteHeader">
           <div className="ui inverted vertical masthead center aligned segment">
             <div className="ui container">

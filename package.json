@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.0",
+    "gulp-util": "^3.0.7",
     "semantic-react": "0.0.2",
     "semantic-ui": "^2.1.5"
   }

@@ -1,5 +1,20 @@
 @import '../../semantic/dist/semantic.min';
 
+#content {
+	height: 100%;
+}
+
+.AppMain {
+	display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 100%;
+
+    .SiteWrapper {
+    	flex: 1;
+    }
+}
+
 .SiteHeader { 
 	.segment {
 		padding: 0;
@@ -37,6 +52,7 @@
 				height: 1050px; // size of the image
 				background: linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0)),
 							url('/images/winning-the-future-background.jpg');
+				background-size: cover;
 				animation: moveBG 50s linear infinite;
 			}
 		}

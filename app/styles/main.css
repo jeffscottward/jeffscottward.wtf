@@ -18474,6 +18474,17 @@ html.ios, html.ios body {
   75% {
     transform: scale3d(1.05, 0.95, 1); } }
 
+#content {
+  height: 100%; }
+
+.AppMain {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%; }
+  .AppMain .SiteWrapper {
+    flex: 1; }
+
 .SiteHeader .segment {
   padding: 0; }
 
@@ -18503,6 +18514,7 @@ html.ios, html.ios body {
         left: 0;
         height: 1050px;
         background: linear-gradient(to right, #1e4b73, rgba(255, 255, 255, 0)), url("/images/winning-the-future-background.jpg");
+        background-size: cover;
         animation: moveBG 50s linear infinite; }
   .SiteBody .body-divider {
     padding: .25rem; }
