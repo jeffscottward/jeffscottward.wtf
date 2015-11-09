@@ -18,9 +18,55 @@ module.exports = React.createClass({
 					  <figcaption>Fig1. MDN Logo</figcaption>
 					</figure>
 					<section>
-						<p>Sub-orbital bicycle tiger-team industrial grade spook uplink apophenia disposable tank-traps singularity rebar katana. Shanty town network uplink neural systema footage urban nano--ware marketing post-dome Tokyo sign math. Render-farm denim disposable weathered tiger-team grenade fetishism. Decay rain bomb realism futurity Tokyo youtube engine otaku fetishism silent girl refrigerator fluidity jeans dead. Dome meta-assassin warehouse bridge euro-pop media range-rover car papier-mache city towards knife. </p>
+						<p>Sub-orbital bicycle tiger-team industrial grade spook uplink apophenia disposable tank-traps singularity rebar katana. Shanty town network uplink neural systema footage urban nano--ware marketing post-dome Tokyo sign math. Render-farm denim disposable weathered tiger-team grenade fetishism. Decay rain bomb realism futurity Tokyo youtube engine otaku fetishism silent girl refrigerator fluidity jeans dead. </p>
 					</section>
 				</article>
+
+				<article className="blog-post">
+		            <h2 className="blog-post-title">Acid-Reflux</h2>
+					<span className="blog-post-date">5 November 2015</span>
+					<hr/>
+					<section>
+						<p>Refrigerator apophenia cartel dissident Tokyo claymore mine sign hacker courier receding human tower j-pop render-farm beef noodles futurity. Saturation point man woman corrupted disposable vehicle sprawl computer Legba film skyscraper receding sensory tank-traps drugs neural. Dolphin urban monofilament artisanal render-farm uplink soul-delay advert dead lights. Face forwards denim rain physical post-industrial grade free-market-ware marketing. 8-bit denim stimulate Legba network military-grade warehouse. Katana convenience store neural artisanal jeans crypto-Tokyo Legba lights otaku wonton soup footage sprawl corrupted. </p>
+					</section>
+				</article>
+
+				<article className="blog-post">
+		            <h2 className="blog-post-title">On Game Theory Against Software Itself</h2>
+					<span className="blog-post-date">5 November 2015</span>
+					<hr/>
+					<section>
+						<p>Refrigerator apophenia cartel dissident Tokyo claymore mine sign hacker courier receding human tower j-pop render-farm beef noodles futurity. Saturation point man woman corrupted disposable vehicle sprawl computer Legba film skyscraper receding sensory tank-traps drugs neural. Dolphin urban monofilament artisanal render-farm uplink soul-delay advert dead lights. Face forwards denim rain physical post-industrial grade free-market-ware marketing. 8-bit denim stimulate Legba network military-grade warehouse. Katana convenience store neural artisanal jeans crypto-Tokyo Legba lights otaku wonton soup footage sprawl corrupted. </p>
+					</section>
+				</article>
+
+				<article className="blog-post">
+		            <h2 className="blog-post-title">Tomorrows Virtual Bank is The Future's Nation State</h2>
+					<span className="blog-post-date">5 November 2015</span>
+					<hr/>
+					<section>
+						<p>Refrigerator apophenia cartel dissident Tokyo claymore mine sign hacker courier receding human tower j-pop render-farm beef noodles futurity. Saturation point man woman corrupted disposable vehicle sprawl computer Legba film skyscraper receding sensory tank-traps drugs neural. Dolphin urban monofilament artisanal render-farm uplink soul-delay advert dead lights. Face forwards denim rain physical post-industrial grade free-market-ware marketing. 8-bit denim stimulate Legba network military-grade warehouse. Katana convenience store neural artisanal jeans crypto-Tokyo Legba lights otaku wonton soup footage sprawl corrupted. </p>
+					</section>
+				</article>
+
+				<article className="blog-post">
+		            <h2 className="blog-post-title">On a Distributed Packager Managers</h2>
+					<span className="blog-post-date">5 November 2015</span>
+					<hr/>
+					<section>
+						<p>Refrigerator apophenia cartel dissident Tokyo claymore mine sign hacker courier receding human tower j-pop render-farm beef noodles futurity. Saturation point man woman corrupted disposable vehicle sprawl computer Legba film skyscraper receding sensory tank-traps drugs neural. Dolphin urban monofilament artisanal render-farm uplink soul-delay advert dead lights. Face forwards denim rain physical post-industrial grade free-market-ware marketing. 8-bit denim stimulate Legba network military-grade warehouse. Katana convenience store neural artisanal jeans crypto-Tokyo Legba lights otaku wonton soup footage sprawl corrupted. </p>
+					</section>
+				</article>
+
+				<article className="blog-post">
+		            <h2 className="blog-post-title">On Encapsulation of An Entire Application in 1 HTML files</h2>
+					<span className="blog-post-date">5 November 2015</span>
+					<hr/>
+					<section>
+						<p>Refrigerator apophenia cartel dissident Tokyo claymore mine sign hacker courier receding human tower j-pop render-farm beef noodles futurity. Saturation point man woman corrupted disposable vehicle sprawl computer Legba film skyscraper receding sensory tank-traps drugs neural. Dolphin urban monofilament artisanal render-farm uplink soul-delay advert dead lights. Face forwards denim rain physical post-industrial grade free-market-ware marketing. 8-bit denim stimulate Legba network military-grade warehouse. Katana convenience store neural artisanal jeans crypto-Tokyo Legba lights otaku wonton soup footage sprawl corrupted. </p>
+					</section>
+				</article>
+
 			</div>
       	</div>
     );

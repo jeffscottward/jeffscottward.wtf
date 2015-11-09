@@ -7,6 +7,8 @@ var SiteBlog  = require('./SiteBlog.jsx');
 var SiteAbout = require('./SiteAbout.jsx');
 var SiteTalks = require('./SiteTalks.jsx');
 
+var SiteFooter = require('./SiteFooter.jsx');
+
 // Body Container
 module.exports = React.createClass({
 
@@ -83,6 +85,7 @@ module.exports = React.createClass({
             {this.state.currentItem === 'talks' ? <SiteTalks/> : null }
           </div>
         </div>
+        <SiteFooter/>
       </div>
     );
   }

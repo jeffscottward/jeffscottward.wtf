@@ -18583,3 +18583,6 @@ h1 {
     position: absolute;
     left: -2px;
     top: -2px; }
+
+article {
+  margin-bottom: 60px; }
